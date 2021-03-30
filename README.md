@@ -6,7 +6,7 @@ This is a header-only library, so just include `lib_hashtable` as a CMake module
 
 ## Testing
 
-You'll need to have [googletest](https://github.com/google/googletest) and google-benchmark in CMake's search path for tests to run. CMake's search paths are [here](https://cmake.org/cmake/help/latest/command/find_package.html#search-procedure).
+You'll need to have [googletest](https://github.com/google/googletest) and [google-benchmark](https://github.com/google/benchmark) in CMake's search path for tests to run. CMake's search paths are [here](https://cmake.org/cmake/help/latest/command/find_package.html#search-procedure).
 
 If you're on a macos system, running the following should install both:
 
